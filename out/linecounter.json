@@ -1,0 +1,444 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "g:\\5-程序人生\\1.1 C++转码之路\\1-书籍资料\\4.2-项目\\1.1 丐版web服务器\\TinyWebServer-master",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2022-07-19 19:49:32",
+            "filesum": 62,
+            "codesum": 3472,
+            "commentsum": 299,
+            "blanksum": 544,
+            "statistics": {
+                ".h": {
+                    "code": 826,
+                    "comment": 86,
+                    "blank": 120
+                },
+                ".md": {
+                    "code": 267,
+                    "comment": 33,
+                    "blank": 90
+                },
+                ".cpp": {
+                    "code": 1490,
+                    "comment": 102,
+                    "blank": 203
+                },
+                ".html": {
+                    "code": 175,
+                    "comment": 2,
+                    "blank": 9
+                },
+                "": {
+                    "code": 319,
+                    "comment": 9,
+                    "blank": 69
+                },
+                ".sh": {
+                    "code": 1,
+                    "comment": 1,
+                    "blank": 1
+                },
+                ".c": {
+                    "code": 392,
+                    "comment": 66,
+                    "blank": 52
+                },
+                ".1": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "build.sh"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "CGImysql\\README.md"
+                },
+                {
+                    "blank": 30,
+                    "code": 108,
+                    "comment": 5,
+                    "filename": "CGImysql\\sql_connection_pool.cpp"
+                },
+                {
+                    "blank": 12,
+                    "code": 47,
+                    "comment": 15,
+                    "filename": "CGImysql\\sql_connection_pool.h"
+                },
+                {
+                    "blank": 11,
+                    "code": 65,
+                    "comment": 10,
+                    "filename": "config.cpp"
+                },
+                {
+                    "blank": 15,
+                    "code": 22,
+                    "comment": 10,
+                    "filename": "config.h"
+                },
+                {
+                    "blank": 65,
+                    "code": 601,
+                    "comment": 36,
+                    "filename": "http\\http_conn.cpp"
+                },
+                {
+                    "blank": 11,
+                    "code": 141,
+                    "comment": 3,
+                    "filename": "http\\http_conn.h"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "http\\README.md"
+                },
+                {
+                    "blank": 28,
+                    "code": 154,
+                    "comment": 1,
+                    "filename": "LICENSE"
+                },
+                {
+                    "blank": 5,
+                    "code": 104,
+                    "comment": 6,
+                    "filename": "lock\\locker.h"
+                },
+                {
+                    "blank": 5,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "lock\\README.md"
+                },
+                {
+                    "blank": 28,
+                    "code": 171,
+                    "comment": 13,
+                    "filename": "log\\block_queue.h"
+                },
+                {
+                    "blank": 24,
+                    "code": 134,
+                    "comment": 7,
+                    "filename": "log\\log.cpp"
+                },
+                {
+                    "blank": 10,
+                    "code": 56,
+                    "comment": 13,
+                    "filename": "log\\log.h"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "log\\README.md"
+                },
+                {
+                    "blank": 12,
+                    "code": 20,
+                    "comment": 9,
+                    "filename": "main.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "makefile"
+                },
+                {
+                    "blank": 62,
+                    "code": 191,
+                    "comment": 31,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 1,
+                    "filename": "root\\fans.html"
+                },
+                {
+                    "filename": "root\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "root\\frame.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "root\\judge.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "root\\log.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "root\\logError.html"
+                },
+                {
+                    "filename": "root\\login.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "root\\loginnew.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "root\\picture.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 1,
+                    "filename": "root\\picture.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "root\\README.md"
+                },
+                {
+                    "filename": "root\\register.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "root\\register.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "root\\registerError.html"
+                },
+                {
+                    "filename": "root\\registernew.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "root\\test1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "root\\video.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "root\\video.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "root\\welcome.html"
+                },
+                {
+                    "filename": "root\\xxx.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "root\\xxx.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 10,
+                    "code": 23,
+                    "comment": 2,
+                    "filename": "test_presure\\README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\ChangeLog"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\COPYRIGHT"
+                },
+                {
+                    "blank": 15,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\debian\\changelog"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\debian\\control"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\debian\\copyright"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\debian\\dirs"
+                },
+                {
+                    "blank": 13,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\debian\\rules"
+                },
+                {
+                    "blank": 6,
+                    "code": 27,
+                    "comment": 8,
+                    "filename": "test_presure\\webbench-1.5\\Makefile"
+                },
+                {
+                    "blank": 7,
+                    "code": 38,
+                    "comment": 13,
+                    "filename": "test_presure\\webbench-1.5\\socket.c"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\tags"
+                },
+                {
+                    "filename": "test_presure\\webbench-1.5\\webbench",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "test_presure\\webbench-1.5\\webbench.1"
+                },
+                {
+                    "blank": 45,
+                    "code": 354,
+                    "comment": 53,
+                    "filename": "test_presure\\webbench-1.5\\webbench.c"
+                },
+                {
+                    "filename": "test_presure\\webbench-1.5\\webbench.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "threadpool\\README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 146,
+                    "comment": 10,
+                    "filename": "threadpool\\threadpool.h"
+                },
+                {
+                    "blank": 15,
+                    "code": 203,
+                    "comment": 6,
+                    "filename": "timer\\lst_timer.cpp"
+                },
+                {
+                    "blank": 22,
+                    "code": 75,
+                    "comment": 5,
+                    "filename": "timer\\lst_timer.h"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "timer\\README.md"
+                },
+                {
+                    "blank": 46,
+                    "code": 359,
+                    "comment": 29,
+                    "filename": "webserver.cpp"
+                },
+                {
+                    "blank": 13,
+                    "code": 64,
+                    "comment": 11,
+                    "filename": "webserver.h"
+                }
+            ]
+        }
+    ]
+}
